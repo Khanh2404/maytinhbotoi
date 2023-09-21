@@ -1,0 +1,10 @@
+C:\Users\vuvan\source\repos\PMmaytinh\PMmaytinh\bin\Debug\PMmaytinh.exe.config
+C:\Users\vuvan\source\repos\PMmaytinh\PMmaytinh\bin\Debug\PMmaytinh.exe
+C:\Users\vuvan\source\repos\PMmaytinh\PMmaytinh\bin\Debug\PMmaytinh.pdb
+C:\Users\vuvan\source\repos\PMmaytinh\PMmaytinh\obj\Debug\PMmaytinh.csproj.AssemblyReference.cache
+C:\Users\vuvan\source\repos\PMmaytinh\PMmaytinh\obj\Debug\PMmaytinh.Form1.resources
+C:\Users\vuvan\source\repos\PMmaytinh\PMmaytinh\obj\Debug\PMmaytinh.Properties.Resources.resources
+C:\Users\vuvan\source\repos\PMmaytinh\PMmaytinh\obj\Debug\PMmaytinh.csproj.GenerateResource.cache
+C:\Users\vuvan\source\repos\PMmaytinh\PMmaytinh\obj\Debug\PMmaytinh.csproj.CoreCompileInputs.cache
+C:\Users\vuvan\source\repos\PMmaytinh\PMmaytinh\obj\Debug\PMmaytinh.exe
+C:\Users\vuvan\source\repos\PMmaytinh\PMmaytinh\obj\Debug\PMmaytinh.pdb
